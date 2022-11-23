@@ -58,3 +58,15 @@ ul li.checked::before {
     color: white;
     text-align: center;
 }
+.header:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.input{
+border: none;
+ width: 75%;
+ padding: 10px;
+ float: left;
+ font-size: 16px;
+}
