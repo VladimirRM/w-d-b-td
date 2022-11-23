@@ -70,3 +70,12 @@ border: none;
  float: left;
  font-size: 16px;
 }
+
+.addBtn{
+    padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+}
